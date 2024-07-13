@@ -1,25 +1,7 @@
 ################################################################################
 # These are variables for the GBA toolchain build
 # You can add others if you wish to
-# ***** YOUR NAME HERE *****
-################################################################################
-
-# TA-TODO: Put your application name here.
-# This should be a just a name i.e MyFirstGBAProgram
-# No SPACES AFTER THE NAME.
-PROGNAME = App
-
-# TA-TODO: Add the C files you want compiled here (replace extension with .o)
-# OFILES should contain all the object files you want to compile into your
-# program. However, feel free to comment the first line out and define the object files
-# yourself. For example if you have main.c and myLib.c then in the following
-# line you would put main.o and myLib.o.
-OFILES := $(shell find . -name '*.c' ! -name 'client.c' | sed 's/\.c/\.o/g')
-# OFILES = gba.o font.o main.o images/garbage.o
-
-################################################################################
-# These are various settings used to make the GBA toolchain work
-# DO NOT EDIT BELOW.
+# ***** Aakash Asthana *****
 ################################################################################
 
 .PHONY: all
