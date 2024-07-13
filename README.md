@@ -5,7 +5,7 @@ Use the arrow keys to navigate your player to the trophy within 15 seconds.
 
 Make sure to reach the trophy in time and not go out of bounds to avoid losing.
 
-Reach the trophy in time while staying in bounds to win and compare your time to your fastest one.
+Reach the trophy in time while staying in bounds to win and compare your time to the top rank on the leaderboard.
 
 Press backspace to navigate to the start screen and press enter to propogate to the next screen when
 your currently on the start screen or win screen.
