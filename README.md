@@ -11,3 +11,7 @@ Press backspace to navigate to the start screen and press enter to propogate to 
 your currently on the start screen or win screen.
 
 Have Fun!
+
+
+### 🏠 Welcome Screen
+![Home Screen](screenshots/Start_Screen.png)
