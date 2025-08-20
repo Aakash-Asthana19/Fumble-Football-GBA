@@ -14,4 +14,6 @@ Have Fun!
 
 
 ### 🏠 Welcome Screen
-![Home Screen](screenshots/Start_Screen.png)
+![Start SCren](screenshots/startscreen.png)
+
+---
